@@ -162,6 +162,12 @@ script twice produces identical output, so a clean `git status` after a second r
 
 `AGENTS.md` lists the checks to run before committing a refresh.
 
+## Sponsor
+
+If this skill saves you review time, you can support its upkeep through
+[GitHub Sponsors](https://github.com/sponsors/dickwu). One-time and monthly tiers are available,
+and the Sponsor button at the top of the repository leads to the same page.
+
 ## Origin and license
 
 The guideline text belongs to Apple Inc. and is reproduced from the public
